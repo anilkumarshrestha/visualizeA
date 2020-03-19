@@ -1,0 +1,1 @@
+g++ -o anil main.cpp textfile.cpp util.cpp -lGLEW  -lglut -lGLU -lGL -lfmodex -lSDL
